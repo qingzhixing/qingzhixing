@@ -6,10 +6,10 @@
 
 <div style="display: flex; gap: 20px;">
   <div>
-    <img src="https://github-stats.ubrong.com/api/top-langs/?username=qingzhixing&layout=compact&theme=tokyonight" />
+    <img src="https://github-stats.ubrong.com/api?username=qingzhixing&show_icons=true&theme=tokyonight" />
   </div>
   <div>
-    <img src="https://github-stats.ubrong.com/api?username=qingzhixing&show_icons=true&theme=tokyonight" />
+    <img src="https://github-stats.ubrong.com/api/top-langs/?username=qingzhixing&layout=compact&theme=tokyonight" />
   </div>
 </div>
 
