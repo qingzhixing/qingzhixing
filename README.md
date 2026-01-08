@@ -1,6 +1,6 @@
 <div align="center">
   
-## QZX's Profile
+## qingzhixing's Profile
 
 [![github](https://img.shields.io/badge/github-qingzhixing-black?style=flat-square&logo=github&logoColor=white&labelColor=4682B4)](https://github.com/qingzhixing)
 
