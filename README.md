@@ -9,6 +9,9 @@
     <img src="https://github-stats.ubrong.com/api?username=qingzhixing&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   </div>
   <div>
+    <img src="https://github-stats.ubrong.com/api?username=qingzhixing&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true" />
+  </div>
+  <div>
     <img src="https://github-stats.ubrong.com/api/top-langs/?username=qingzhixing&layout=compact&theme=tokyonight" />
   </div>
 </div>
